@@ -1,0 +1,28 @@
+
+        body {
+            font-family: HelveticaNeue, sans-serif;
+            font-size: 24px;
+            color: #34302e;
+            margin: 25px;
+        }
+        h1 {
+            font-size: 26px;
+            font-weight: 600;
+        }
+
+        a {
+            color: #4990E2;
+            text-decoration: none;
+        }
+        a:hover {
+            background-color:#e2ffac;
+        }
+        div {
+            float:left;width:460px;padding-top:20px;
+        }
+        @media (max-width: 1200px) {
+            body {
+            background-color:yellow;
+            font-size:32px;
+            }
+        }    
