@@ -22,9 +22,9 @@
         }
         @media (max-width: 1200px) {
             body {
-            font-size:46px;
+            font-size:52px;
             }
-            div {
+            div {border:2px solid red;
             width:590px;padding-top:20px;
         }
         }    
