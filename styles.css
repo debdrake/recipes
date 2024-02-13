@@ -28,7 +28,7 @@ div {
         float:left;width:460px;padding-top:20px;
 }
 li {
-        padding-bottom:6px;
+        margin-bottom:6px;
 }
 @media (max-width: 1200px)
 {
