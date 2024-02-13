@@ -4,7 +4,7 @@
             font-size: 24px;
             color: #34302e;
             margin: 25px;
-                background-color:yellow;
+                
         }
         h1 {
             font-size: 28px;
@@ -32,5 +32,6 @@
             }
             div {
             width:99%;padding-top:20px;
+                    background-color:yellow;
         }
         }    
